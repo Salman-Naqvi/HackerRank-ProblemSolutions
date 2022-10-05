@@ -9,3 +9,9 @@
 - Place: Rawalpindi, Pakistan
 - Bio: GDSC Lead
 - GitHub: [abdulmoizquddus](https://github.com/abdulmoizquddus)
+
+#### Name: [Salman Ali Naqvi](https://github.com/Salman-Naqvi)
+
+Place: Islamabad, Pakistan
+Bio: Student
+Github: [Salman-Naqvi](https://github.com/Salman-Naqvi)
